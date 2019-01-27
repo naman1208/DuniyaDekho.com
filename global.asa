@@ -1,0 +1,2 @@
+<object runat="server" scope="application" id="mycount"
+progid="MSWC.counters"></object>
